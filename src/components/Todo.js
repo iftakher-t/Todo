@@ -74,7 +74,7 @@ return (
                             return(
                                 <div className="todo_Items" key={ind}>
                                     <div className="text">
-                                        <h3> {el}</h3> 
+                                        <p> {el}</p> 
                                     </div>
                                     <div className="icons">
                                         <button className="todo_edit" 
